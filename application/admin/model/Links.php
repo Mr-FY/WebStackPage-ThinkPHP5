@@ -15,14 +15,7 @@ class Links extends Model {
         return $data;
 	}
 
-    //搜索
-    public function search($flag){
-        $data = $this
-            ->where(where_time('add_time', $flag['start'], $flag['end']))
-            ->whereLike('tel', '%' . $flag['tel'] . '%')
-            ->paginate(10, false, ['query' => request()->param()]);
-        return $data;
-    }
+    
 
     //添加用户
     public function add($data) {

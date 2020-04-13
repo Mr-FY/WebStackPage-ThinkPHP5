@@ -26,15 +26,6 @@ class MenuType extends Model {
         return $data;
     }
 
-    //搜索
-    public function search($flag){
-        $data = $this
-            ->where(where_time('add_time', $flag['start'], $flag['end']))
-            ->whereLike('tel', '%' . $flag['tel'] . '%')
-            ->paginate(10, false, ['query' => request()->param()]);
-        return $data;
-    }
-
     //添加用户
     public function add($data) {
         $repeat = $this->where('type_name',$data['type_name'])->find();
@@ -78,6 +69,7 @@ class MenuType extends Model {
         }
     }
 
+    //开关控制
     public function kg($id, $status){
         if ($this->where('id',$id)->update($status)) {
             return ['code' => 1,'msg' => '操作成功'];
