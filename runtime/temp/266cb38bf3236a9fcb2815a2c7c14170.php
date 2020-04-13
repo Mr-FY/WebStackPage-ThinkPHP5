@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:69:"E:\MrF\FyNavigation\public/../application/index\view\index\index.html";i:1586744533;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:69:"E:\MrF\FyNavigation\public/../application/index\view\index\index.html";i:1586749130;}*/ ?>
 <!DOCTYPE html>
 <html lang="zh">
 
@@ -115,12 +115,12 @@
                 </ul>
                 <ul class="user-info-menu right-links list-inline list-unstyled">
                     <li class="hidden-sm hidden-xs">
-                        <a href="https://github.com/WebStackPage/WebStackPage.github.io" target="_blank">
+                        <a href="https://github.com/Mr-FY/WebStackPage-ThinkPHP5" target="_blank">
                             <i class="fa-github"></i>  GitHub
                         </a>
                     </li>
                 </ul>
-                <!-- <a href="https://github.com/WebStackPage/WebStackPage.github.io" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a> -->
+                <!-- <a href="https://github.com/Mr-FY/WebStackPage-ThinkPHP5" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a> -->
 
             </nav>
 
@@ -162,7 +162,8 @@
                     <!-- Add your copyright text here -->
                     <div class="footer-text">
                         &copy; 2017-2020
-                        <a href="https://github.com/WebStackPage/WebStackPage.github.io"><strong>WebStack</strong></a> design by <a href="http://viggoz.com" target="_blank"><strong>Viggo</strong></a>
+                        <a href="https://github.com/WebStackPage/WebStackPage.github.io"><strong>WebStack</strong></a> design by <a href="http://viggoz.com" target="_blank"><strong>Viggo</strong></a> | 
+                        <a href="https://github.com/Mr-FY/WebStackPage-ThinkPHP5"><strong>WebStack-ThinkPHP5</strong></a>
                         Back-end develop by <a href="https://www.fyovo.com" target="_blank"><strong>风影OvO</strong></a>
                         <!-- 保留版权信息是对免费开源的开发者最大的尊重 -->
                         <!-- Retaining copyright information is the greatest respect for free and open source developers -->
