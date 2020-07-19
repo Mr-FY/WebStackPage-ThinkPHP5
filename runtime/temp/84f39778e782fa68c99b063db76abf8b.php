@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:69:"E:\MrF\FyNavigation\public/../application/index\view\index\about.html";i:1586704026;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:69:"E:\MrF\FyNavigation\public/../application/index\view\index\about.html";i:1586748934;}*/ ?>
 <!DOCTYPE html>
 <html lang="zh">
 
@@ -48,7 +48,7 @@
                 </a>
             </div>
             <div class="navbar-mobile-clear"></div>
-            <a href="https://github.com/WebStackPage/WebStackPage.github.io" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+            <a href="https://github.com/Mr-FY/WebStackPage-ThinkPHP5" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
         </div>
     </nav>
     <div class="page-container">
@@ -94,7 +94,7 @@
                                             <br />
                                             <blockquote>
                                                 <p>
-                                                    这是一个公益项目，而且是<a href="https://github.com/WebStackPage/WebStackPage.github.io"> 开源 </a>的。你也可以拿来制作自己的网址导航。如果你有更好的想法，可以通过个人网站<a href="https://www.fyovo.com"><span class="label label-info" data-toggle="tooltip" data-placement="left" title="" data-original-title="Hello I am a Tooltip">www.fyovo.com</span></a>中的联系方式找到我，欢迎与我交流分享。
+                                                    这是一个公益项目，而且是<a href="https://github.com/Mr-FY/WebStackPage-ThinkPHP5"> 开源 </a>的。你也可以拿来制作自己的网址导航。如果你有更好的想法，可以通过个人网站<a href="https://www.fyovo.com"><span class="label label-info" data-toggle="tooltip" data-placement="left" title="" data-original-title="Hello I am a Tooltip">www.fyovo.com</span></a>中的联系方式找到我，欢迎与我交流分享。
                                                 </p>
                                             </blockquote>
                                         </div>

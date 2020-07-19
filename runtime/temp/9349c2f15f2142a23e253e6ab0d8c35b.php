@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:72:"E:\MrF\FyNavigation\public/../application/admin\view\menutype\index.html";i:1586615200;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:72:"E:\MrF\FyNavigation\public/../application/admin\view\menutype\index.html";i:1586747874;}*/ ?>
 <!DOCTYPE html>
 <html class="x-admin-sm">
     <head>
@@ -32,7 +32,7 @@
                 <div class="layui-col-md12">
                     <div class="layui-card">
                         <div class="layui-card-body ">
-                            <form action="/admin/user/1" class="layui-form layui-col-space5">
+                            <!-- <form action="/admin/user/1" class="layui-form layui-col-space5">
                                 <div class="layui-inline layui-show-xs-block">
                                     <input class="layui-input"  autocomplete="off" placeholder="开始日(可空)" name="start" id="start">
                                 </div>
@@ -40,12 +40,12 @@
                                     <input class="layui-input"  autocomplete="off" placeholder="截止日(可空)" name="end" id="end">
                                 </div>
                                 <div class="layui-inline layui-show-xs-block">
-                                    <input type="text" name="tel"  placeholder="请输入手机号" autocomplete="off" class="layui-input">
+                                    <input type="text" name=""  placeholder="" autocomplete="off" class="layui-input">
                                 </div>
                                 <div class="layui-inline layui-show-xs-block">
                                     <button class="layui-btn"  lay-submit="" lay-filter="sreach"><i class="layui-icon">&#xe615;</i></button>
                                 </div>
-                            </form>
+                            </form> -->
                         </div>
                         <div class="layui-card-header">
                             <button class="layui-btn" onclick="xadmin.open('添加分类','/admin/menu/create.html',600,400)"><i class="layui-icon"></i>添加</button>
