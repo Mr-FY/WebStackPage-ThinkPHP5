@@ -17,7 +17,7 @@
 **测试数据已经上传!**
 
 - 后台访问路由
-`http://domain//admin/home.html`
+`http://domain/admin/home.html`
 - 初始登录账户密码
 `admin 123456`
 - 登录之后请在后台右上角及时修改登录密码
